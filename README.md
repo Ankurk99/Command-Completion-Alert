@@ -1,4 +1,4 @@
-#Command Completion Alert
+# Command Completion Alert
 This script generate an alert when a command is executed successfully. The alert is in the form of  
 1) Pikachu Sound  
 2) Setting screen brightness to max level  
